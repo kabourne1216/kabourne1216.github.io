@@ -12,7 +12,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm a mixed methods social psychologist interested in the influence of climate and culture on peoples experiences. More specifically I am interested in the social, behavioral and health implications of diversity and inequality for both advantaged and disadvantaged groups.
