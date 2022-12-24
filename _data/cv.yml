@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D Student in Social and Personality Psychology
+    - title: Ph.D Candidate in Social and Personality Psychology
       institution: University of Washington - Seattle, Washington
       year: 2019 - 2024
       advisor: Cynthia Levine
@@ -34,9 +34,11 @@
       institution: Davidson College, Davidson, NC <br/>Davidson Intergroup Studies Lab<br/>P.I. Jessica Good, Ph.D.
       year: 2017 - 2019
     - title: Lab Manager
-      institution: New York University, New York, NY <br/>Interpersonal Perception Lab<br/>P.I. Tessa West, Ph.D.
+      institution: New York University, New York, NY <br/>West Interpersonal Perception Lab<br/>P.I. Tessa West, Ph.D.
       year: 2016 - 2017
-
+    - title: Lab Manager
+      institution: Colby College, Waterville, ME <br/>Memory and Language Lab<br/>P.I. Jennifer Coane, Ph.D.
+      year: 2016 - 2017
 - title: Grant Funding
   type: time_table
   contents:
