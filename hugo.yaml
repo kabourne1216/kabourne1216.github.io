@@ -45,7 +45,7 @@ Menus:
 
 params:
   title: "Kimberly Bourne"
-  description: Text about my cool site
+  description: Personal Website
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
