@@ -1,6 +1,6 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://kbourne.com/'
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Kimberly Bourne"
 theme: hugo-profile
 
 caches:
